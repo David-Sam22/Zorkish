@@ -1,0 +1,4 @@
+gate:stair%top
+top:path%house
+house:door%room
+house:path%backyard

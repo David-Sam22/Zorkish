@@ -1,0 +1,21 @@
+help:help
+debug:debug
+alias:alias
+inventory:inventory
+look :look
+look at ^ :lookItemAt
+look at the ^ :lookItemAt
+look in ^ :lookItemIn
+look in the ^ :lookItemIn
+open * :go
+open the * :go
+take * :go
+take the * :go
+go back :back
+take ^ :takeItem
+take the ^ :takeItem
+take ^ from ^ :takeItemFrom
+put ^ in ^ :putItem
+attack :attack
+attack the ^ :attack
+attack ^ :attack

@@ -1,0 +1,5 @@
+box:may contain something useful inside@gate+
+potion:recover back the lost hp@child+
+bag:can be use to store item@gate+^potion/
+sword:use to attack the enemy@house+#5/
+monster:look ugly and strong@house+$10/*
